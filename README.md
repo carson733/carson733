@@ -3,6 +3,6 @@
 ### We have weird prints all the way up to house decor
 
 
-#Categories
+# Categories
 
 ## Weird
